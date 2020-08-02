@@ -1,5 +1,5 @@
 # NobyDa Rules: https://github.com/NobyDa/Script/blob/master/Surge/AdRule.list
-# Update > 2020.7.27 Go advertising rule Integration lhie1 and ConnersHua, REJECT
+# Update > 2020.7.27 Go advertising rule Integration lhie1 and ConnersHua
   - DOMAIN-SUFFIX,mcupdate.gstarcad.com, REJECT
   - DOMAIN-SUFFIX,adx.open-adx.com, REJECT
   - DOMAIN-SUFFIX,adservice.sigmob.cn, REJECT
