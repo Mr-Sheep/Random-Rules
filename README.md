@@ -1,34 +1,43 @@
 # Random Scripts
 This project contains rules I used for clash and Surge, feel free to use it.
-Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.
+Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.😄️
 
-## File related instructions
-### Basic.list (Clash ONLY)
-Scripts from multiple projects, some may duplicate AdRule
+# ℹ️ File related instructions
 
-### AdRule.list
-More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
+- Basic.list (Clash ONLY)
 
-### AdRule-IP-CIDR.list 
-IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET)
+  Scripts from multiple projects, some may duplicate AdRule
 
-### AdRuleTest.list 
-More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing
+- AdRule.list
 
-### Download.list 
-Integrate some BT, Thunder, download shunt rules
+  More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
 
-### MayCrash.list
-This part of the rule is modified from github.com/StevenBlack/hosts, with over 70k+ rules, originally a hosts file, so it may CRASH on surge, created for testing purposes only
-**May Crash due to iOS NE memory limit**
+- AdRule-IP-CIDR.list 
 
-### ChineseWebsite.list
-This list is a modification of https://github.com/vokins/yhosts, with over 8k+ rules
-**May Crash due to iOS NE memory limit**
+  IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET)
+
+- AdRuleTest.list 
+
+  More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing
+
+- Download.list 
+
+  Integrate some BT, Thunder, download shunt rules
+
+- MayCrash.list
+
+  This part of the rule is modified from github.com/StevenBlack/hosts, with over 70k+ rules, originally a hosts file, so it may CRASH on surge, created for testing purposes only
+  **May Crash due to iOS NE memory limit**
+
+- ChineseWebsite.list
+
+  This list is a modification of https://github.com/vokins/yhosts, with over 8k+ rules
+  **May Crash due to iOS NE memory limit**
 
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
-## Difference between RULE-SET and DOMAIN-SET
+### RULE-SET & DOMAIN-SET
+
 According to [Surge's official guidance](https://manual.nssurge.com/book/understanding-surge/en/#rule-system)
 
 > 4.3.5.1 Difference between RULE-SET and DOMAIN-SET
