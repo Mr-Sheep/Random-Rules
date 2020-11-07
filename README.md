@@ -1,6 +1,6 @@
 # Random Scripts
 This project contains rules I used for clash and Surge, feel free to use it.
-Part of this project is based on [NobyDa/Script](https://github.com/NobyDa/Script/), which has awesome rules and scripts for Surge & QuantumultX, however, it does not support clash.
+Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.
 
 ## File related instructions
 ### Basic.list (Clash ONLY)
@@ -34,3 +34,11 @@ According to [Surge's official guidance](https://manual.nssurge.com/book/underst
 > 4.3.5.1 Difference between RULE-SET and DOMAIN-SET
 
 > RULE-SET can contain all types of sub-rules, with no difference in execution efficiency from the rules in the main configuration, while DOMAIN-SET can only use both DOMAIN and DOMAIN-SUFFIX forms of content, using special logic optimized to provide a huge performance boost when there is very much content. (over a thousand items, otherwise there is not much difference between the two)
+
+## Project used
+|  Name                | Link                                     |
+| ----                 |    ----                                  |
+|  StevenBlack/hosts   | https://github.com/StevenBlack/hosts     |
+| NobyDa/Script        | https://github.com/NobyDa/Script         |
+| VeleSila/yhosts | https://github.com/VeleSila/yhosts |
+
