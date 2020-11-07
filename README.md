@@ -3,17 +3,22 @@ This project contains rules I used for clash and Surge, feel free to use it.
 Part of this project is based on [NobyDa/Script](https://github.com/NobyDa/Script/), which has awesome rules and scripts for Surge & QuantumultX, however, it does not support clash.
 
 ## File related instructions
-- Basic.list (Scripts from multiple projects, some may duplicate AdRule)
+- Basic.list
+    Scripts from multiple projects, some may duplicate AdRule
 
-- AdRule.list （More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules)
+- AdRule.list
+    More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
 
-- AdRule-IP-CIDR.list （IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET))
+- AdRule-IP-CIDR.list 
+    IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET)
 
-- AdRuleTest.list （More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing)
+- AdRuleTest.list 
+    More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing
 
-- Download.list (Integrate some BT, Thunder, download shunt rules)
+- Download.list 
+    Integrate some BT, Thunder, download shunt rules
 
-- Because ConnersHua ad rules are already included in this rule, you don't need to repeatedly add.
+Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
 ## Difference between RULE-SET and DOMAIN-SET
 According to [Surge's official guidance](https://manual.nssurge.com/book/understanding-surge/en/#rule-system)
