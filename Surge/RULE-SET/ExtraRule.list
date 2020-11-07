@@ -23,7 +23,7 @@ DOMAIN,mtrace.qq.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
 
-DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,sentry.io
