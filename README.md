@@ -50,4 +50,5 @@ According to [Surge's official guidance](https://manual.nssurge.com/book/underst
 |  StevenBlack/hosts   | https://github.com/StevenBlack/hosts     |
 | NobyDa/Script        | https://github.com/NobyDa/Script         |
 | VeleSila/yhosts | https://github.com/VeleSila/yhosts |
+| DivineEngine/Profiles | https://github.com/DivineEngine/Profiles |
 
