@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,elfdoll.cn
 DOMAIN-SUFFIX,dlads.cn
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,zoom.com.cn
-
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,greacore.com
@@ -59,6 +58,7 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,app-measurement.com
 
 DOMAIN-KEYWORD,applvn
 DOMAIN-KEYWORD,getkeepsafe
