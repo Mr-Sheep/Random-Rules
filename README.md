@@ -4,19 +4,19 @@ Part of this project is based on [NobyDa/Script](https://github.com/NobyDa/Scrip
 
 ## File related instructions
 - Basic.list
-    Scripts from multiple projects, some may duplicate AdRule
+Scripts from multiple projects, some may duplicate AdRule
 
 - AdRule.list
-    More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
+More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
 
 - AdRule-IP-CIDR.list 
-    IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET)
+IP-CIDR part from AdRule.list to better fit Surge's [DOMAIN-SET feature](#Difference between RULE-SET and DOMAIN-SET)
 
 - AdRuleTest.list 
-    More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing
+More than 1300 ad rules，This rule is modified from Scomper. Because the original author stopped maintenance, so take over the optimization and delete some normal rules, only for testing
 
 - Download.list 
-    Integrate some BT, Thunder, download shunt rules
+Integrate some BT, Thunder, download shunt rules
 
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
