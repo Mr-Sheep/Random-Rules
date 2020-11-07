@@ -2752,34 +2752,18 @@ DOMAIN-SUFFIX,zoplm.com
 DOMAIN-SUFFIX,zvatrswtsrw.ml
 DOMAIN-SUFFIX,alibaba.zzux.com
 DOMAIN-SUFFIX,browserservice.zzux.com
-
-# Added July 24, 2020
 DOMAIN-SUFFIX,pub.trads.io
-
-# Added July 30, 2020
 DOMAIN-SUFFIX,public.servenobid.com
 DOMAIN-SUFFIX,ads.servenobid.com
-
-# Added August 3, 2020
 DOMAIN-SUFFIX,instui201.info
-
-# Added August 4, 2020
 DOMAIN-SUFFIX,api.fouanalytics.com
-
-# Added August 6, 2020
 DOMAIN-SUFFIX,pixel.runative-syndicate.com
-
-# Added August 10, 2020
 DOMAIN-SUFFIX,api.purpleads.io
 DOMAIN-SUFFIX,cdn.purpleads.io
 DOMAIN-SUFFIX,creatives.purpleads.io
-
-# Added August 12, 2020
 DOMAIN-SUFFIX,servsave.com
 DOMAIN-SUFFIX,www.servsave.com
 DOMAIN-SUFFIX,us-west-2.kinesis.hpanalytics.net
-
-# Added August 15, 2020
 DOMAIN-SUFFIX,free-dating-girls.online
 DOMAIN-SUFFIX,administration.ap45.hetznir.ventanasyaluminios.com.mx
 
@@ -8581,11 +8565,8 @@ DOMAIN-SUFFIX,hbi-ingest.net
 # [hearstapps.com]
 DOMAIN-SUFFIX,glimmer.hearstapps.com
 
-# [herocraft.com]
 DOMAIN-SUFFIX,adv.herocraft.com
 DOMAIN-SUFFIX,gamestats.herocraft.com
-
-# [herokuapp.com]
 DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
 DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
 DOMAIN-SUFFIX,evening-badlands-6215.herokuapp.com
@@ -8593,8 +8574,6 @@ DOMAIN-SUFFIX,ilyonanalytics.herokuapp.com
 DOMAIN-SUFFIX,powr-counter.herokuapp.com
 DOMAIN-SUFFIX,stack-exchange-dynamic-ads.herokuapp.com
 DOMAIN-SUFFIX,wootric-eligibility.herokuapp.com
-
-# [herokudns.com]
 DOMAIN-SUFFIX,radiusnetworks.com.herokudns.com
 DOMAIN-SUFFIX,proximitykit.radiusnetworks.com.herokudns.com
 DOMAIN-SUFFIX,analytics.readcube.com.herokudns.com

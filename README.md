@@ -3,7 +3,7 @@ This project contains rules I used for clash and Surge, feel free to use it.
 Part of this project is based on [NobyDa/Script](https://github.com/NobyDa/Script/), which has awesome rules and scripts for Surge & QuantumultX, however, it does not support clash.
 
 ## File related instructions
-### Basic.list
+### Basic.list (Clash ONLY)
 Scripts from multiple projects, some may duplicate AdRule
 
 ### AdRule.list
@@ -17,6 +17,14 @@ More than 1300 ad rules，This rule is modified from Scomper. Because the origin
 
 ### Download.list 
 Integrate some BT, Thunder, download shunt rules
+
+### MayCrash.list
+This part of the rule is modified from github.com/StevenBlack/hosts, with over 70k+ rules, originally a hosts file, so it may CRASH on surge, created for testing purposes only
+**May Crash due to iOS NE memory limit**
+
+### ChineseWebsite.list
+This list is a modification of https://github.com/vokins/yhosts, with over 8k+ rules
+**May Crash due to iOS NE memory limit**
 
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
