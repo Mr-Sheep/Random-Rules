@@ -165,4 +165,5 @@ PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/Ado
 PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,REJECT-TINYGIF
 PROCESS-NAME,/Applications/XMind.app/Contents/MacOS/XMind,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Numi.app/Contents/MacOS/Numi,REJECT-TINYGIF
+PROCESS-NAME,/Applications/2048 Game.app/Contents/MacOS/2048 Game,REJECT-TINYGIF
 
