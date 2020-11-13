@@ -1,7 +1,7 @@
 # Random Scripts
-This project contains rules I used for clash and Surge, feel free to use it.
+This project contains rules I used for clash, Quantumult X, and Surge, feel free to use it.
 Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.😄️
-
+Quantumult X is a clone of NobyDa/Script
 # ℹ️ File related instructions
 
 - Basic.list (Clash ONLY)
