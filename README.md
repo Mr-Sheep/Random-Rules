@@ -2,6 +2,7 @@
 This project contains rules I used for clash, Quantumult X, and Surge, feel free to use it.
 Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.😄️
 Quantumult X is a clone of NobyDa/Script
+Sample configs are included, but it is best to use your own configuration
 # ℹ️ File related instructions
 
 - Basic.list (Clash ONLY)
