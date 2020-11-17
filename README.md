@@ -52,4 +52,4 @@ According to [Surge's official guidance](https://manual.nssurge.com/book/underst
 | NobyDa/Script        | https://github.com/NobyDa/Script         |
 | VeleSila/yhosts | https://github.com/VeleSila/yhosts |
 | DivineEngine/Profiles | https://github.com/DivineEngine/Profiles |
-
+| Hackl0us/SS-Rule-Snippet | https://github.com/Hackl0us/SS-Rule-Snippet|
