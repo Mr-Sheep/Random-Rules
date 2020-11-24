@@ -158,6 +158,11 @@ USER-AGENT,2048*
 USER-AGENT,*ballsvsblocks*
 USER-AGENT,*paper2*
 USER-AGENT,PDFExpert*
+USER-AGENT,*长图拼接大师*
+USER-AGENT,*PhotoVault*
+USER-AGENT,*Photo Vault*
+USER-AGENT,*CPUMonitor*
+
 
 
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
