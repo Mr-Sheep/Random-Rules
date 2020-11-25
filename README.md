@@ -35,6 +35,14 @@ Sample configs are included, but it is best to use your own configuration
   This list is a modification of https://github.com/vokins/yhosts, with over 8k+ rules
   **May Crash due to iOS NE memory limit**
 
+- CN-IP-SET.list
+  This is not for production use, just for testing.
+
+- Apple.list
+  Make all apple request go through proxy server.
+  If you don't want this, consider https://github.com/Hackl0us/SS-Rule-Snippet
+
+
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
 ### RULE-SET & DOMAIN-SET

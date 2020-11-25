@@ -20,8 +20,6 @@ DOMAIN,data.mistat.xiaomi.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
-DOMAIN,safebrowsing.urlsec.qq.com
-DOMAIN,safebrowsing.googleapis.com
 
 # DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,conviva.com
@@ -83,6 +81,8 @@ DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+DOMAIN-SUFFIX,safebrowsing.googleapis.com
 
 DOMAIN-KEYWORD,applvn
 DOMAIN-KEYWORD,getkeepsafe
