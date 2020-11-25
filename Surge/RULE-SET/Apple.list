@@ -1,4 +1,3 @@
-[Rule]
 DOMAIN,developer.apple.com 
 DOMAIN-SUFFIX,digicert.com 
 USER-AGENT,com.apple.trustd* 

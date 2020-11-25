@@ -43,6 +43,11 @@ Sample configs are included, but it is best to use your own configuration
   If you don't want this, consider https://github.com/Hackl0us/SS-Rule-Snippet
 
 
+- China-Site.list
+  adopted from https://github.com/Hackl0us/SS-Rule-Snippet
+- Non-China-Site.list
+  adopted from https://github.com/Hackl0us/SS-Rule-Snippet
+
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
 ### RULE-SET & DOMAIN-SET
