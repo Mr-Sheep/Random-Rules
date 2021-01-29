@@ -21,7 +21,6 @@ DOMAIN,tracking.intl.miui.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
 
-# DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,sentry.io
@@ -84,6 +83,8 @@ DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 
+
+DOMAIN-KEYWORD,miwifi
 DOMAIN-KEYWORD,applvn
 DOMAIN-KEYWORD,getkeepsafe
 DOMAIN-KEYWORD,voodoo
@@ -163,6 +164,8 @@ USER-AGENT,*PhotoVault*
 USER-AGENT,*Photo Vault*
 USER-AGENT,*CPUMonitor*
 
+URL-REGEX,broker
+# XiaoMi Router broker requests
 
 
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
