@@ -165,7 +165,7 @@ USER-AGENT,*Photo Vault*
 USER-AGENT,*CPUMonitor*
 
 URL-REGEX,broker
-URL-REGEX,weishi
+# URL-REGEX,weishi
 # XiaoMi Router broker requests
 
 
