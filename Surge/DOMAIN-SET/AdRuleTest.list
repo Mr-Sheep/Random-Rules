@@ -1,6 +1,7 @@
 #Update 2020.10.3 Self-use for testing only, there may be a lot of manslaughter.
 # This rule is a duplication of NobyDa's rule with DOMAIN-KEYWORD part removed to better fit surge's DOMAIN_SET
 .admaster.com
+
 .x.research.qq.com
 .casestudy.html5.qq.com
 .apponline.research.qq.com
