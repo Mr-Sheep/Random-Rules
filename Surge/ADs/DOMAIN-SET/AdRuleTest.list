@@ -1,4 +1,4 @@
-#Update 2020.10.3 Self-use for testing only, there may be a lot of manslaughter.
+#Update 02.21.2021 Self-use for testing only, there may be a lot of manslaughter.
 # This rule is a duplication of NobyDa's rule with DOMAIN-KEYWORD part removed to better fit surge's DOMAIN_SET
 .admaster.com
 

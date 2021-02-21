@@ -1,0 +1,51 @@
+DOMAIN,track.tiara.daum.net
+DOMAIN,track.tiara.kakao.com
+DOMAIN,log.byteoversea.com
+DOMAIN,log.tiktokv.com
+DOMAIN,log-hl-ipv6.snssdk.com
+DOMAIN,log-lq.snssdk.com
+DOMAIN,log-va.tiktokv.com
+DOMAIN,xlog.snssdk.com
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN,tracking.intl.miui.com
+DOMAIN,btrace.qq.com
+DOMAIN,mtrace.qq.com
+DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
+DOMAIN-SUFFIX,track.saygames.io
+DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,google-analytics.com
+
+
+DOMAIN-KEYWORD,analytics
+DOMAIN-KEYWORD,analysis
+DOMAIN-KEYWORD,tracking
+DOMAIN-KEYWORD,usage
+DOMAIN-KEYWORD,log.umeng.com
+DOMAIN-KEYWORD,logs.umeng.com
+DOMAIN-KEYWORD,logs.umengcloud.com
+DOMAIN-KEYWORD,crashlytics
+DOMAIN-KEYWORD,pingfore
+
+
+# Stop Chinese apps from getting ur phone number using api
+# list adopted from https://www.zhihu.com/question/316829163/answer/1038945960
+DOMAIN-SUFFIX,www.cmpassport.com
+DOMAIN-SUFFIX,wap.cmpassport.com
+DOMAIN-SUFFIX,smsks1.cmpassport.com
+DOMAIN-SUFFIX,log1.cmpassport.com
+
+DOMAIN-SUFFIX,ulflash.253.com
+DOMAIN-SUFFIX,flash.253.com
+
+DOMAIN-SUFFIX,device.jpush.cn
+DOMAIN-SUFFIX,report.jpush.cn
+DOMAIN-SUFFIX,api.verification.jpush.cn
+
+
+
+PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
+PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,REJECT-TINYGIF
+PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,REJECT-TINYGIF
+PROCESS-NAME,/Applications/XMind.app/Contents/MacOS/XMind,REJECT-TINYGIF
+PROCESS-NAME,/Applications/Numi.app/Contents/MacOS/Numi,REJECT-TINYGIF
+PROCESS-NAME,/Applications/2048 Game.app/Contents/MacOS/2048 Game,REJECT-TINYGIF
