@@ -284,3 +284,9 @@ DOMAIN-SUFFIX,yimg.com,Proxy
 DOMAIN-SUFFIX,ying.com,Proxy
 DOMAIN-SUFFIX,yoyo.org,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
+
+
+USER-AGENT,*Translate*
+USER-AGENT,Signal*
+DOMAIN-SUFFIX,signal.org
+DOMAIN-KEYWORD,managebac
