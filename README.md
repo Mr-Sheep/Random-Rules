@@ -103,4 +103,5 @@ This section is created for people who hates any kind of data collection from yo
 | VeleSila/yhosts | https://github.com/VeleSila/yhosts |
 | DivineEngine/Profiles | https://github.com/DivineEngine/Profiles |
 | Hackl0us/SS-Rule-Snippet | https://github.com/Hackl0us/SS-Rule-Snippet|
-| blackmatrix7/ios_rule_script |https://github.com/blackmatrix7/ios_rule_script/|
+| blackmatrix7/ios_rule_script |https://github.com/blackmatrix7/ios_rule_script|
+| 787a68/Rules | https://github.com/787a68/Rules|
