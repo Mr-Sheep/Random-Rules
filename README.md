@@ -59,6 +59,10 @@ According to [Surge's official guidance](https://manual.nssurge.com/book/underst
 
 ## ADs
 
+- Tide.list
+  Adopted from eHpo1/Rules
+  > 通过中间人攻击使用正则表达式实现对广告的精准打击
+
 - AdRule.list
 
   More than 8000 ad rules， integrate lhie1 and ConnersHua and added some advertising rules
