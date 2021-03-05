@@ -13,9 +13,11 @@ dns:
   nameserver:
     - 1.2.4.8
     - 223.5.5.5
+    - https://rubyfish.cn/dns-query
   fallback:
     - tls://1.0.0.1:853
     - tls://dns.google:853
+    - https://cloudflare-dns.com/dns-query
 proxies:
 
 proxy-groups:

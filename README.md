@@ -3,6 +3,16 @@ This project contains rules I used for clash, Quantumult X, and Surge(Mostly), f
 Most of the script is modified from other open sourced projects, modified to fit Surge's DOMAIN-SET and Clash.😄
 Sample configs are included, but it is best to use your own configuration
 
+# How do I define ADs and Privacy?
+
+To be honest, I didn't think of having two separate sections when I started this project. So there might be a lot of misplaced rules. So you are encouraged to modify this project and create your own rules.
+
+All the applications' requests sent from my phone is monitored by Surge. When the app made some so called "non-essential" requests to hosts such as Data collection companies' server, I will block them and add them to this list. 
+
+Sorry Big Techs lol
+
+Have fun with your ads free internet browsing.
+
 # ℹ️ File related instructions (Clash & Quantumult)
 
 - Basic.list (Clash ONLY)
