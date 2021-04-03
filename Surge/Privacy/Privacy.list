@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,qgraph.io
 DOMAIN-SUFFIX,qgr.ph
+DOMAIN-SUFFIX,lncld.net
+DOMAIN-SUFFIX,firestore.googleapis.com
 
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis

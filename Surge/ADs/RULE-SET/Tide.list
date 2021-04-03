@@ -1,5 +1,5 @@
 # Tide.list
-# Adopted from eHpo1/Rules
+# Adopted from eHpo1/Rules + self modifications
 # Strong Stain Removal
 # 0~9
 # > 21经济
@@ -380,7 +380,7 @@ URL-REGEX,^https?+:\/\/tiasdk\.app\.wechat\.com\/retrieval\/getAdInfo$
 URL-REGEX,^https?+:\/\/mm\.app\.joox\.com\/retrieval\/getAd
 URL-REGEX,^https?+:\/\/mm\.app\.joox\.com\/billsrv\/clientBatchAdReport$
 # >> 微信
-URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad)
+URL-REGEX,^https?+:\/\/mp\.weixin\.qq\.com\/mp\/(?>ad_|advertisement|getappmsgad|promotion)
 # > 澎湃新闻
 URL-REGEX,^https?+:\/\/adpai\.thepaper\.cn\/.+?&ad=
 # > 太平洋
@@ -505,6 +505,8 @@ URL-REGEX,^https?+:\/\/api\.zhihu\.com\/commercial_api\/(?>launch|real_time)
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/fringe\/ad
 URL-REGEX,^https?+:\/\/api\.zhihu\.com\/(?>ab|adx|xen|drama|zst|ad-style-service|market\/popover|search\/(?>top|tab|preset)|.*?(?>guide|recommendations|extended|featured-comment-ad))
 URL-REGEX,^https?+:\/\/www\.zhihu\.com\/api\/v4\/community-ad
+URL-REGEX,^https?+:\/\/www\.zhihu\.com\/promotion-intro
+
 # > 追书神器
 URL-REGEX,^https?+:\/\/(?>api|b)\.zhuishushenqi\.com\/advert
 URL-REGEX,^https?+:\/\/api\.zhuishushenqi\.com\/splashes\/ios
@@ -552,3 +554,10 @@ URL-REGEX,^https?+:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
 URL-REGEX,^https?+:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/
 URL-REGEX,^https?+:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad
 URL-REGEX,^https?+:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/
+
+
+# > Duolingo
+URL-REGEX,*kudos/offers*
+URL-REGEX,*kudos/receive*
+URL-REGEX,*midas_ios_increase_plus_interstitial_3*
+
