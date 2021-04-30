@@ -1,6 +1,7 @@
 # This part of the rule is modified from github.com/StevenBlack/hosts
 # Originally a hosts file, so it may CRASH on surge
 # Created for testing purposes only
+.soup.v.qq.com
 .n2019cov.000webhostapp.com
 .webmail-who-int.000webhostapp.com
 .010sec.com

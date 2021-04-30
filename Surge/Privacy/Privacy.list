@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,qgraph.io
 DOMAIN-SUFFIX,qgr.ph
 DOMAIN-SUFFIX,lncld.net
 DOMAIN-SUFFIX,firestore.googleapis.com
+DOMAIN-SUFFIX,ifcert.cn
+DOMAIN-SUFFIX,log.aliyuncs.com
+
 
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis
