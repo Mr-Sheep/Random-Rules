@@ -1,6 +1,9 @@
 # This file was generated at 02.21.2021
 # This rule is a duplication of NobyDa's rule with ip-cidr part removed to better fit surge's domain-set
 # Update > 2020.1.30 Go advertising rule Integration lhie1 and ConnersHua
+.mopub.com
+.flurry.com
+.unityads.unity3d.cn
 .mcupdate.gstarcad.com
 .adx.open-adx.com
 .adservice.sigmob.cn
