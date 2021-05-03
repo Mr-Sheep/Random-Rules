@@ -284,6 +284,7 @@ DOMAIN-SUFFIX,yimg.com,Proxy
 DOMAIN-SUFFIX,ying.com,Proxy
 DOMAIN-SUFFIX,yoyo.org,Proxy
 DOMAIN-SUFFIX,ytimg.com,Proxy
+DOMAIN-SUFFIX,forms.office.com,Proxy
 
 # Experimental
 USER-AGENT,*Translate*
