@@ -42242,11 +42242,8 @@
 .analytics.amakings.com
 .metrics.amd.com
 .metrics.americancityandcounty.com
-# .metrics.ancestry.co.uk #[affects login]
 .metric.angieslist.com
 .metrics.apartmentfinder.com
-# .metrics.apple.com #[affects Apple site/MacOS]
-# .securemetrics.apple.com #[affects Apple site/MacOS]
 .metrics.ariba.com
 .omniture.artinstitutes.edu
 .stats2.arstechnica.com
@@ -65897,7 +65894,6 @@
 .secretivecub.com
 .secretspiders.com
 .securedopen-bp.com
-.securemetrics.apple.com
 .sedotracker.com
 .selectionsugar.com
 .selectivesummer.com
