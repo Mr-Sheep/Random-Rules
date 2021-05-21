@@ -20,7 +20,8 @@ DOMAIN-SUFFIX,lncld.net
 DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,ifcert.cn
 DOMAIN-SUFFIX,log.aliyuncs.com
-DOMAIN-SUFFIX,adjust.net.in,REJECT
+DOMAIN-SUFFIX,adjust.net.in,REJECT-TINYGIF
+DOMAIN-KEYWORD,leancloud,REJECT-TINYGIF
 
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis
