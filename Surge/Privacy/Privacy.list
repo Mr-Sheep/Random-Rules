@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,report.jpush.cn
 DOMAIN-SUFFIX,api.verification.jpush.cn
 
 
-
+PROCESS-NAME,QQ jietu plugin,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,REJECT-TINYGIF
