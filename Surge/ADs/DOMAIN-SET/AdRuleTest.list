@@ -56,7 +56,7 @@
 .log.vcgame.cn
 .log.voicecloud.cn
 .m.adpro.cn
-.m.qpic.cn
+# f.m.qpic.cn
 .m.reachmax.cn
 .mgr.aduu.cn
 .mm.dopa.com.cn
@@ -1023,7 +1023,6 @@
 .mqtt.zhihu.com
 .linktech.cn
 .ad7.on.cc
-.app.adjust.com
 .dfp.suning.com
 .huodonghezi.com
 .miniapp.bilibili.com
