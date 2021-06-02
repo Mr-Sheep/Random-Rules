@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,ifcert.cn
 DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,f-log-mobile-ios.grammarly.com
+DOMAIN-SUFFIX,f-log-mobile-ios.grammarly.io
 DOMAIN-KEYWORD,leancloud,REJECT-TINYGIF
 
 DOMAIN-KEYWORD,analytics
