@@ -10,7 +10,9 @@ DOMAIN,tracklog.58.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 
-
+DOMAIN-SUFFIX,ugcbsy.qq.com
+DOMAIN-SUFFIX,ugcws.video.gtimg.com
+DOMAIN-SUFFIX,ugcsjy.qq.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,sentry.io
