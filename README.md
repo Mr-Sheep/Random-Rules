@@ -99,6 +99,8 @@ According to [Surge's official guidance](https://manual.nssurge.com/book/underst
 - Zhihu.list
   Special rule list for blocking ads from Zhihu
 
+- anti-AD.list
+  Adopted from https://github.com/privacy-protection-tools/anti-AD
 
 Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/blob/master/Surge/Module/RewriteRules.sgmodule) for better ad filtering.
 
@@ -115,3 +117,4 @@ This section is created for people who hates any kind of data collection from yo
 | Hackl0us/SS-Rule-Snippet | https://github.com/Hackl0us/SS-Rule-Snippet|
 | blackmatrix7/ios_rule_script |https://github.com/blackmatrix7/ios_rule_script|
 | 787a68/Rules | https://github.com/787a68/Rules|
+| privacy-protection-tools| https://github.com/privacy-protection-tools/anti-AD |
