@@ -1,0 +1,5 @@
+# IP prefixes extracted from https://bgp.he.net/AS132203#_prefixes
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+# IP-CIDR,150.109.0.0/16,no-resolve
+# IP-CIDR,162.62.0.0/16,no-resolve
