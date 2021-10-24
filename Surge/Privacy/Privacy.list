@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,qgraph.io
 DOMAIN-SUFFIX,qgr.ph
+DOMAIN-SUFFIX,xitong-tech.com
 DOMAIN-SUFFIX,lncld.net
 DOMAIN-SUFFIX,firestore.googleapis.com
 DOMAIN-SUFFIX,ifcert.cn
@@ -26,8 +27,9 @@ DOMAIN-SUFFIX,igodigital.com
 DOMAIN-SUFFIX,ping.huatuo.qq.com
 DOMAIN-SUFFIX,sqdd.myapp.com
 DOMAIN-SUFFIX,loggw.alipay.com
+DOMAIN-SUFFIX,perfalytics.com
 DOMAIN-KEYWORD,f-log-mobile-ios
-DOMAIN-KEYWORD,leancloud,REJECT-TINYGIF
+DOMAIN-KEYWORD,leancloud
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis
 DOMAIN-KEYWORD,tracking
@@ -54,6 +56,7 @@ DOMAIN-SUFFIX,device.jpush.cn
 DOMAIN-SUFFIX,report.jpush.cn
 DOMAIN-SUFFIX,api.verification.jpush.cn
 
+URL-REGEX,img.umetrip.com/fs/(serviceRecommend|entertain|newsGETuser|advert|mall|comment),REJECT-TINYGIF
 
 PROCESS-NAME,QQ jietu plugin,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
