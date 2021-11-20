@@ -14,6 +14,7 @@ Sorry Big Techs lol
 Have fun with your ads free internet browsing.
 
 # ℹ️ File related instructions (Clash & Quantumult)
+This project now focus primarily on Surge, so you might wanna look for something else when using clash/quantumult.
 
 - Basic.list (Clash ONLY)
 
@@ -106,6 +107,13 @@ Also consider adding [RewriteRules.sgmodule](https://github.com/NobyDa/Script/bl
 
 ## privacy
 This section is created for people who hates any kind of data collection from your service provider.
+
+
+## Miscellaneous
+
+We currently have a domain list for DisneyPlus, Bahamut, Netflix, WeChatSG(WeChat ip range for non-mainland china users), and Steam.
+There appeared to be some problem with Netflix on iOS since Netflix can somehow id that a proxy is being used. Pending investigation.
+
 
 ## Project used
 |  Name                | Link                                     |

@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,youtu.be,force-remote-dns
 DOMAIN-KEYWORD,whatsapp,force-remote-dns
 
 ## 国外网站
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
@@ -116,6 +115,8 @@ DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,gongm.in
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gravatar.com
