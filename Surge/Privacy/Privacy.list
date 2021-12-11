@@ -60,7 +60,6 @@ DOMAIN-SUFFIX,api.verification.jpush.cn
 
 DOMAIN-SUFFIX,stats.setapp.com
 DOMAIN-SUFFIX,hg-statsd.setapp.com
-URL-REGEX,img.umetrip.com/fs/(serviceRecommend|entertain|newsGETuser|advert|mall|comment),REJECT-TINYGIF
 
 PROCESS-NAME,QQ jietu plugin,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Sensei.app/Contents/MacOS/Sensei,REJECT-TINYGIF
