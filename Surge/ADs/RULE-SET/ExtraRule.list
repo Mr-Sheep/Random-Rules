@@ -146,10 +146,3 @@ USER-AGENT,*长图拼接大师*
 USER-AGENT,*PhotoVault*
 USER-AGENT,*Photo Vault*
 USER-AGENT,*CPUMonitor*
-
-URL-REGEX,broker
-URL-REGEX,vweishi
-
-
-
-
