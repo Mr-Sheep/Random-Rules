@@ -10,6 +10,7 @@ DOMAIN,data.mistat.xiaomi.com
 DOMAIN,tracking.intl.miui.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
+DOMAIN,self.events.data.microsoft.com
 DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,track.saygames.io
 DOMAIN-SUFFIX,tracking.miui.com
