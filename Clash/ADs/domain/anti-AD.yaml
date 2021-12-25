@@ -2,7 +2,8 @@
 # VER=20210614024954'
 # URL=https://github.com/privacy-protection-tools/anti-AD'
 # TOTAL_LINES=42878'
-# THIS FILE IS ADOPTED FROM https://github.com/privacy-protection-tools/anti-AD'
+# THIS FILE IS ADOPTED FROM https://github.com/privacy-protection-tools/anti-AD
+payload:
 - '.00-gov.cn'
 - '.kwcdn.000dn.com'
 - '.kwcscdn.000dn.com'
@@ -42879,4 +42880,4 @@
 - '.zzwpsm.cn'
 - '.zzxhx.com'
 - '.zzyanhushi.com'
-- '.zzyonghao.com
+- '.zzyonghao.com'
