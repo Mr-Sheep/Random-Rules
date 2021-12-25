@@ -297,5 +297,3 @@ DOMAIN-KEYWORD,managebac
 DOMAIN-SUFFIX,polocloud.xyz
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,setapp.com
-
-IP-CIDR,23.225.0.0/15,no-resolve
