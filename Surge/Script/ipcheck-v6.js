@@ -19,8 +19,8 @@ $httpClient.get(url, function(error, response, data){
     let asOrg = jsonData.asn_organization
     
   body = {
-    title: "Network Info",
-    content: `IPv6: ${ip}\nAS${asn} ${asOrg}\nGeo: ${emoji}${country}`,
+    title: "IPv6 Info",
+    content: `IPv6: ${ip}\nAS${asn} ${asOrg}\nGeo: ${emoji} ${country}`,
     icon: "link.icloud",
     'icon-color': "#5AC8FA"
   }
