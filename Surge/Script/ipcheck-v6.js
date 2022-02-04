@@ -21,8 +21,7 @@ $httpClient.get(url, function(error, response, data){
   body = {
     title: "IPv6 Info",
     content: `IPv6: ${ip}\nAS${asn} ${asOrg}\n${emoji} ${country}`,
-    icon: "link.icloud",
-    'icon-color': "#5AC8FA"
+    icon: "globe.europe.africa.fill"
   }
   $done(body);
 });
