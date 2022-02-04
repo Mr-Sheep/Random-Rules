@@ -17,11 +17,22 @@ $httpClient.get(url, function(error, response, data){
     let emoji = getFlagEmoji(jsonData.country_code)
     let asn = jsonData.asn
     let asOrg = jsonData.asn_organization
+    let continent = jsonData.continent_code
+    const icon = {
+      'AF': "globe.europe.africa.fill",
+      'AN': "globe",
+      'AS': "globe.asia.australia.fill",
+      'EU': "globe.europe.africa.fill",
+      'NA': "globe.americas.fill",
+      'OC': "globe.asia.australia.fill",
+      'SA': "globe.americas.fill",
+      'default': "globe",
+    };
     
   body = {
     title: "IPv6 Info",
     content: `IPv6: ${ip}\nAS${asn} ${asOrg}\n${emoji} ${country}`,
-    icon: "globe.europe.africa.fill"
+    icon: icon[continent] || icon["continent"]
   }
   $done(body);
 });
