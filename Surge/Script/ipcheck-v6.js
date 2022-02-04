@@ -2,10 +2,10 @@
 https://raw.githubusercontent.com/Mr-Sheep/Random-Rules/master/Surge/Script/ipcheck-v6.js
 
 * [Panel]
-* Network Info = script-name=Network Info, title="Network Info", content="Refresh", style=info, update-interval=60
+* IPv6 Network Info= script-name=IPv6 Network Info, title="IPv6 Network Info", content="Refresh", style=info, update-interval=60
 * ...
 * [Script]
-* Network Info = type=generic,timeout=3,script-path=https://raw.githubusercontent.com/Mr-Sheep/Random-Rules/master/Surge/Script/ipcheck-v6.js
+* IPv6 Network Info= type=generic,timeout=3,script-path=https://raw.githubusercontent.com/Mr-Sheep/Random-Rules/master/Surge/Script/ipcheck-v6.js
 */
 
 let url = "https://api-ipv6.ip.sb/geoip"
@@ -20,7 +20,7 @@ $httpClient.get(url, function(error, response, data){
     
   body = {
     title: "Network Info",
-    content: `IPv6: ${ip}\n ASN: ${asn}: ${asOrg}\n Geo: ${emoji}${country}`,
+    content: `IPv6: ${ip}\nAS${asn} ${asOrg}\nGeo: ${emoji}${country}`,
     icon: "link.icloud",
     'icon-color': "#5AC8FA"
   }
