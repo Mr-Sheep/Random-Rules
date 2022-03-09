@@ -32,7 +32,7 @@ $httpClient.get(url, function(error, response, data){
   body = {
     title: "IPv4 Info",
     content: `IPv4: ${ip}\nAS${asn} ${asOrg}\n${emoji} ${country}`,
-    icon: icon[continent] || icon["continent"]
+    icon: icon[continent] || icon["default"]
   }
   $done(body);
 });
