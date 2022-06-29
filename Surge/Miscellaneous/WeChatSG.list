@@ -7,5 +7,7 @@ DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-KEYWORD,wetvdefaultts
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,cdntips.net
 # IP-CIDR,150.109.0.0/16,no-resolve
 # IP-CIDR,162.62.0.0/16,no-resolve
