@@ -2,12 +2,33 @@
 IP-CIDR,101.32.0.0/16,no-resolve
 IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,203.205.0.0/16,no-resolve
+IP-CIDR,150.109.0.0/16,no-resolve
+IP-CIDR,162.62.0.0/16,no-resolve
+
+DOMAIN,vweixinf.tc.qq.com
+DOMAIN,weixin110.qq.com
+DOMAIN,wup.imtt.qq.com
+DOMAIN,wx.tenpay.com
+
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-KEYWORD,wetvdefaultts
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,cdntips.net
-# IP-CIDR,150.109.0.0/16,no-resolve
-# IP-CIDR,162.62.0.0/16,no-resolve
+DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wx.gtimg.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+
+DOMAIN-KEYWORD,wetvdefaultts
+
+URL-REGEX,mmsns
+URL-REGEX,mmtls
+
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
