@@ -44,6 +44,9 @@ DOMAIN-KEYWORD,logs.umengcloud.com
 DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,huatuocode
+DOMAIN-KEYWORD,firebaseio
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,sentry.io
 
 # Stop Chinese apps from getting ur phone number using api
 # list adopted from https://www.zhihu.com/question/316829163/answer/1038945960
