@@ -61,6 +61,9 @@ DOMAIN-SUFFIX,flash.253.com
 DOMAIN-SUFFIX,device.jpush.cn
 DOMAIN-SUFFIX,report.jpush.cn
 DOMAIN-SUFFIX,api.verification.jpush.cn
+DOMAIN-SUFFIX,hyprmx.com
+DOMAIN-SUFFIX,conde.digital
+DOMAIN-SUFFIX,hbplus-interstitials.web.applovin
 
 DOMAIN-SUFFIX,stats.setapp.com
 DOMAIN-SUFFIX,hg-statsd.setapp.com
