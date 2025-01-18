@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,telemetry-production-0.mylio.com
+DOMAIN-SUFFIX,sentry-new.protontech.ch
+DOMAIN,merkle3account.mylio.com
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
 DOMAIN,log.byteoversea.com
