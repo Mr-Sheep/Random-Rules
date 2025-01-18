@@ -1,6 +1,3 @@
-DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,telemetry-production-0.mylio.com
-DOMAIN-SUFFIX,sentry-new.protontech.ch
 DOMAIN,merkle3account.mylio.com
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
@@ -15,6 +12,12 @@ DOMAIN,tracking.intl.miui.com
 DOMAIN,btrace.qq.com
 DOMAIN,mtrace.qq.com
 DOMAIN,self.events.data.microsoft.com
+DOMAIN,stats.setapp.com
+DOMAIN,hg-statsd.setapp.com
+
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,telemetry-production-0.mylio.com
+DOMAIN-SUFFIX,sentry-new.protontech.ch
 DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,track.saygames.io
 DOMAIN-SUFFIX,tracking.miui.com
@@ -35,6 +38,9 @@ DOMAIN-SUFFIX,sqdd.myapp.com
 DOMAIN-SUFFIX,loggw.alipay.com
 DOMAIN-SUFFIX,perfalytics.com
 DOMAIN-SUFFIX,huatuocode.weiyun.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,sentry.io
+
 DOMAIN-KEYWORD,f-log-mobile-ios
 DOMAIN-KEYWORD,leancloud
 DOMAIN-KEYWORD,analytics
@@ -49,8 +55,6 @@ DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,pingfore
 DOMAIN-KEYWORD,huatuocode
 DOMAIN-KEYWORD,firebaseio
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,sentry.io
 
 # Stop Chinese apps from getting ur phone number using api
 # list adopted from https://www.zhihu.com/question/316829163/answer/1038945960
