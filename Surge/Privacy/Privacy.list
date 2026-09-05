@@ -94,3 +94,5 @@ DOMAIN-SUFFIX,lbs.netease.im
 DOMAIN-SUFFIX,link-sg.netease.im
 
 URL-REGEX,^https://gateway\.fantuan\.ca/api/smart/marketing/
+DOMAIN-SUFFIX,yunxinfw.com
+
