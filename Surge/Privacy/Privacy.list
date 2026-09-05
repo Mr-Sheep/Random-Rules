@@ -92,3 +92,5 @@ DOMAIN-SUFFIX,abt-online.netease.im
 DOMAIN-SUFFIX,trait-gather.fantuan.ca
 DOMAIN-SUFFIX,lbs.netease.im
 DOMAIN-SUFFIX,link-sg.netease.im
+
+URL-REGEX,^https://gateway\.fantuan\.ca/api/smart/marketing/
