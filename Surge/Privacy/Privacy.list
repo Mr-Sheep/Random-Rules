@@ -84,3 +84,11 @@ PROCESS-NAME,/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/Ado
 PROCESS-NAME,/Applications/XMind.app/Contents/MacOS/XMind,REJECT-TINYGIF
 PROCESS-NAME,/Applications/Numi.app/Contents/MacOS/Numi,REJECT-TINYGIF
 PROCESS-NAME,/Applications/2048 Game.app/Contents/MacOS/2048 Game,REJECT-TINYGIF
+
+
+# Fantuan
+
+DOMAIN-SUFFIX,abt-online.netease.im
+DOMAIN-SUFFIX,trait-gather.fantuan.ca
+DOMAIN-SUFFIX,lbs.netease.im
+DOMAIN-SUFFIX,link-sg.netease.im
